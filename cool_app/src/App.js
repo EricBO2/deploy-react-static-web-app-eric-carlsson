@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
-          <h1>Why do programers hate lits becuse dej atrackt bugs</h1>
+          <h1>Why do programers hate lights becuse dej attrackt bugs</h1>
         </p>
         <a
           className="App-link"
