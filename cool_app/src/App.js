@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import meme from './meme.jpeg'
 import './App.css';
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
           <h1>Why do programers hate lights becuse dej attrackt bugs</h1>
+          <img src={meme} className='meme'></img>
         </p>
         <a
           className="App-link"
